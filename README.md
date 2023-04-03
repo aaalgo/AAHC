@@ -38,7 +38,7 @@ https://zoom.us/rec/share/HaUIi6Rxxgjfpbo9dEhO1BoFV796Zl2O7e_RGZvZAtbOWoC0UHJTxO
 Passcode: 56q@vhZi
 
 
-# Recommende Reading
+# Recommended Reading
 
 
 ## Python
