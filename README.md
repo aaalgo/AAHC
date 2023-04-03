@@ -33,9 +33,6 @@ Doc: https://docs.google.com/document/d/1p8gkdWmOQvw1o0wx8AdHXN1q1P7zOjAKGabbGSQ
 
 Doc: https://docs.google.com/document/d/1b5PdZWulm2timkyJLSDah9QrXGVa4Af0J0tTmVrIs5g/
 
-https://zoom.us/rec/share/HaUIi6Rxxgjfpbo9dEhO1BoFV796Zl2O7e_RGZvZAtbOWoC0UHJTxOJHBmhOmfI9.F8e6lfoLxwluql4y 
-
-Passcode: 56q@vhZi
 
 
 # Recommended Reading
