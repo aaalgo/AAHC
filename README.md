@@ -3,6 +3,12 @@ Ann Arbor (Junior) Hacking Club
 
 # Past Sessions
 
+## Week 6
+
+Doc: https://docs.google.com/document/d/1IbPNjmOKTsAKLhItQg_F13eplWoQkyAqoNd2PGu9i38
+
+Slides: https://docs.google.com/presentation/d/1oONfqziRNy3TVHfUAcjng693se2JxCQBuw_4LxnI6uA/edit?usp=sharing
+
 ## Week 5
 
 Doc: https://docs.google.com/document/d/1V4hOG_56qfnmPHwbfG3sfiDd0RyBez-19l6TiQh6tYc/
