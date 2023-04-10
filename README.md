@@ -9,6 +9,9 @@ Doc: https://docs.google.com/document/d/1IbPNjmOKTsAKLhItQg_F13eplWoQkyAqoNd2PGu
 
 Slides: https://docs.google.com/presentation/d/1oONfqziRNy3TVHfUAcjng693se2JxCQBuw_4LxnI6uA/edit?usp=sharing
 
+Recording: https://zoom.us/rec/share/ziDlGQdwGe9Hmi9VjjQ92gbH9BuTI7gM0i-0aTWvGBakD1CZZ8kkZsnzOMe8GJBD.INWxrgYe5W9zRKUK 
+Passcode: zS1K$k0M
+
 ## Week 5
 
 Doc: https://docs.google.com/document/d/1V4hOG_56qfnmPHwbfG3sfiDd0RyBez-19l6TiQh6tYc/
