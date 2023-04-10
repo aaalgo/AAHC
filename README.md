@@ -12,6 +12,8 @@ Slides: https://docs.google.com/presentation/d/1oONfqziRNy3TVHfUAcjng693se2JxCQB
 Recording: https://zoom.us/rec/share/ziDlGQdwGe9Hmi9VjjQ92gbH9BuTI7gM0i-0aTWvGBakD1CZZ8kkZsnzOMe8GJBD.INWxrgYe5W9zRKUK 
 Passcode: zS1K$k0M
 
+How to run vicuna-13b on Colab: https://colab.research.google.com/drive/1jGIVDUkw_dshQQyl6KuR4BFhrrCynI2l?usp=sharing
+
 ## Week 5
 
 Doc: https://docs.google.com/document/d/1V4hOG_56qfnmPHwbfG3sfiDd0RyBez-19l6TiQh6tYc/
