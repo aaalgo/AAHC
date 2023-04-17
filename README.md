@@ -3,6 +3,16 @@ Ann Arbor (Junior) Hacking Club
 
 # Past Sessions
 
+## Week 7
+
+https://docs.google.com/presentation/d/1phvW0jNOMDRQvB2oFYMl5bf-hSJeZqkuxBlY79_mjdM/edit?usp=sharing
+
+Recording: 
+
+https://zoom.us/rec/share/dD4dR2-qq-Lly4pQ2BkIpPkMN7EAFInMI00h7vyq-iwYdrvw9vNn6g-Jy9vJBgoz.nDbLAh2LIAUpN--p
+Passcode: 0zKGkIu=
+
+
 ## Week 6
 
 Doc: https://docs.google.com/document/d/1IbPNjmOKTsAKLhItQg_F13eplWoQkyAqoNd2PGu9i38
