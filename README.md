@@ -12,6 +12,8 @@ Recording:
 https://zoom.us/rec/share/dD4dR2-qq-Lly4pQ2BkIpPkMN7EAFInMI00h7vyq-iwYdrvw9vNn6g-Jy9vJBgoz.nDbLAh2LIAUpN--p
 Passcode: 0zKGkIu=
 
+The SUBLEQ Simulator: https://kh-labs.org/subleq/
+
 
 ## Week 6
 
