@@ -42,11 +42,11 @@ class SubleqGUI:
         
         self.root = tk.Tk()
         self.root.title("8-bit Subleq Machine")
-        
-        self.code_text = tk.Text(self.root, height=20, width=40)
-        self.code_text.pack(side=tk.LEFT, padx=10, pady=10)
 
-        frame = tk.Frame(self.root)
+        left_frame = tk.Frame(self.root)
+        left_frame.pack(side=tk.LEFT, pady=5)
+
+        frame = tk.Frame(left_frame)
         frame.pack(side=tk.TOP, pady=5)
         self.load_button = tk.Button(frame, text="Load", command=self.load_program)
         self.load_button.pack(side=tk.LEFT, pady=5)
@@ -64,13 +64,61 @@ class SubleqGUI:
 
         self.random_button = tk.Button(frame, text="Random", command=self.random_program)
         self.random_button.pack(side=tk.LEFT, pady=5)
+        
+        self.code_text = tk.Text(left_frame, height=20, width=40)
+        self.code_text.pack(side=tk.LEFT, padx=10, pady=10)
 
-        frame = tk.Frame(self.root)
+
+        right_frame = tk.Frame(self.root)
+        right_frame.pack(side=tk.LEFT, pady=5)
+        frame = tk.Frame(right_frame)
         frame.pack(side=tk.TOP, pady=5)
         self.pc_label = tk.Label(frame, text="PC: 0")
         self.pc_label.pack(side=tk.TOP, pady=5)
 
-        frame = tk.Frame(self.root)
+        frame = tk.Frame(right_frame)
+        frame.pack(side=tk.TOP, pady=5)
+        worksheet = []
+        tk.Label(frame, text="ADDR").grid(row=0, column=0)
+        tk.Label(frame, text="a").grid(row=0, column=1)
+        e = tk.Entry(frame)
+        e.grid(row=0, column=2)
+        worksheet.append(e)
+        tk.Label(frame, text="b").grid(row=0, column=3)
+        e = tk.Entry(frame)
+        e.grid(row=0, column=4)
+        worksheet.append(e)
+        tk.Label(frame, text="c").grid(row=0, column=5)
+        e = tk.Entry(frame)
+        e.grid(row=0, column=6)
+        worksheet.append(e)
+        tk.Label(frame, text="INPUT").grid(row=1, column=0)
+        tk.Label(frame, text="*a").grid(row=1, column=1)
+        e = tk.Entry(frame)
+        e.grid(row=1, column=2)
+        worksheet.append(e)
+        tk.Label(frame, text="*b").grid(row=1, column=3)
+        e = tk.Entry(frame)
+        e.grid(row=1, column=4)
+        worksheet.append(e)
+        tk.Label(frame, text="OUTPUT").grid(row=2, column=0)
+        tk.Label(frame, text="*b <- *b - *a").grid(row=2, column=2)
+
+        tk.Label(frame, text="*b").grid(row=2, column=3)
+        e = tk.Entry(frame)
+        e.grid(row=2, column=4)
+        worksheet.append(e)
+        tk.Label(frame, text="PC").grid(row=2, column=5)
+        e = tk.Entry(frame)
+        e.grid(row=2, column=6)
+        worksheet.append(e)
+        self.worksheet = worksheet
+
+        self.reset_worksheet = tk.Button(frame, text="Clear", command=self.clear_worksheet)
+        self.reset_worksheet.grid(row=3, column=6)
+
+
+        frame = tk.Frame(right_frame)
         frame.pack(side=tk.TOP, pady=5)
         cells = []
         if True:
@@ -119,6 +167,11 @@ class SubleqGUI:
             memory[addr+2] = c
             addr += 3
         return memory
+
+    def clear_worksheet (self):
+        for e in self.worksheet:
+            e.delete(0, tk.END)
+
     
     def load_program (self):
         # compile
@@ -161,6 +214,7 @@ class SubleqGUI:
     
     def update_memory_display(self):
         pc = self.machine.pc
+        print(pc)
         self.pc_label.config(text="PC: %d" % pc)
         for i in range(len(self.machine.memory)):
             text = "%d" % self.machine.memory[i]

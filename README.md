@@ -3,6 +3,22 @@ Ann Arbor (Junior) Hacking Club
 
 # Past Sessions
 
+## Week 8
+
+The subleq simulator is in the repo.  You need python environment to run
+```
+python subleq.py	# windows
+python3 subleq.py	# linux or mac
+```
+
+
+Slides:
+https://docs.google.com/presentation/d/1tOxSnIO6x6tbjGgT9pgykiQVP25PrzIXCUPWmUgLL0w/edit?usp=sharing
+
+Recording:
+https://zoom.us/rec/share/ifFGejQv6vmCd8KkOhrM3EodJRwRc8-m_Bp32sknlsoe4Rd3HzPMHFIvOuHTXhcY.jM5lynGGpmLfBIN_ 
+Passcode: 5+=6manp
+
 ## Week 7
 
 https://docs.google.com/presentation/d/1phvW0jNOMDRQvB2oFYMl5bf-hSJeZqkuxBlY79_mjdM/edit?usp=sharing
