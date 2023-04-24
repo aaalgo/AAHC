@@ -10,7 +10,8 @@ The subleq simulator is in the repo.  You need python environment to run
 python subleq.py	# windows
 python3 subleq.py	# linux or mac
 ```
-
+I have pasted the machine code for Program 1 and 2 into the slides.  I
+lost the code for Program 3.
 
 Slides:
 https://docs.google.com/presentation/d/1tOxSnIO6x6tbjGgT9pgykiQVP25PrzIXCUPWmUgLL0w/edit?usp=sharing
