@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# In Windows, run "python subleq.py".
+# If tk is missing, do "pip install tk".
+
 import time
 import traceback
 import tkinter as tk
