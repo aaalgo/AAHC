@@ -16,8 +16,8 @@ http://users.atw.hu/gerigeri/DawnOS/index.html
 
 Sample C code and compiler output:
 
-* Expr1: [C Code](dawn/expr1.c) [Machine Code](dawn/expr1.asm)
-* Expr2: [C Code](dawn/expr2.c) [Machine Code](dawn/expr2.asm)
+* Expr1: [Source Code](dawn/expr1.c) / [Machine Code](dawn/expr1.asm)
+* Expr2: [Source Code](dawn/expr2.c) / [Machine Code](dawn/expr2.asm)
 
 ## Week 8
 
