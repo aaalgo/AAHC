@@ -17,7 +17,11 @@ http://users.atw.hu/gerigeri/DawnOS/index.html
 Sample C code and compiler output:
 
 * Expr1: [Source Code](dawn/expr1.c) / [Machine Code](dawn/expr1.asm)
-* Expr2: [Source Code](dawn/expr2.c) / [Machine Code](dawn/expr2.asm)
+* Expr2: [Source Code](dawn/expr2.c) / [Machine Code](dawn/expr2.asm) /
+  [Annotate Machine Code](dawn/expr2a.asm)
+
+I've annotated the machine code of the 2nd experiment, try to follow
+my annotation and go through that in the raw machien code.
 
 ## Week 8
 
