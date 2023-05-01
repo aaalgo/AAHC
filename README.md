@@ -3,7 +3,13 @@ Ann Arbor (Junior) Hacking Club
 
 # Past Sessions
 
+## Week 10
+
+(Arduino and Embedded Systems)
+
 ## Week 9
+
+(Introduction to Computer Architecture, Part 3, Basic C Programming)
 
 Slides: https://docs.google.com/presentation/d/1Dch2QYAAzobZqD24bxNIBZmHFp92Nn3T_ESHBoIs2Eo/edit?usp=sharing
 
@@ -23,7 +29,10 @@ Sample C code and compiler output:
 I've annotated the machine code of the 2nd experiment, try to follow
 my annotation and go through that in the raw machien code.
 
+
 ## Week 8
+
+(Introduction to Computer Architecture, Part 2)
 
 The subleq simulator is in the repo.  You need python environment to run
 ```
@@ -41,6 +50,8 @@ https://zoom.us/rec/share/ifFGejQv6vmCd8KkOhrM3EodJRwRc8-m_Bp32sknlsoe4Rd3HzPMHF
 Passcode: 5+=6manp
 
 ## Week 7
+
+(Introduction to Computing Theory and Computer Architecture, Part 1)
 
 https://docs.google.com/presentation/d/1phvW0jNOMDRQvB2oFYMl5bf-hSJeZqkuxBlY79_mjdM/edit?usp=sharing
 
