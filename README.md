@@ -14,6 +14,11 @@ DawnOS: A More Realistic 64-bit subleq machine
 
 http://users.atw.hu/gerigeri/DawnOS/index.html
 
+Sample C code and compiler output:
+
+* Expr1: [C Code](dawn/expr1.c) [Machine Code](dawn/expr1.asm)
+* Expr2: [C Code](dawn/expr2.c) [Machine Code](dawn/expr2.asm)
+
 ## Week 8
 
 The subleq simulator is in the repo.  You need python environment to run
