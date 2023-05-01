@@ -5,12 +5,14 @@ Ann Arbor (Junior) Hacking Club
 
 ## Week 9
 
-DawnOS: 64-bit subleq machine
-
-http://users.atw.hu/gerigeri/DawnOS/index.html
+Slides: https://docs.google.com/presentation/d/1Dch2QYAAzobZqD24bxNIBZmHFp92Nn3T_ESHBoIs2Eo/edit?usp=sharing
 
 Recording: https://zoom.us/rec/share/_ZLEvILduYnhFLrCKNYB5Xoyoa8o-2LDbLtJ1joP86BXpDDoEHgnU8O6MJrRjbT8.P_x5mZh1w0qg3JPH 
 Passcode: 2$S=&b3i
+
+DawnOS: A More Realistic 64-bit subleq machine
+
+http://users.atw.hu/gerigeri/DawnOS/index.html
 
 ## Week 8
 
