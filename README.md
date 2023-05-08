@@ -7,6 +7,11 @@ Ann Arbor (Junior) Hacking Club
 
 (Arduino and Embedded Systems)
 
+Doc: https://docs.google.com/document/d/1PenzTcrnbE_IP2nSM_ggk73WvV9HF1dUhIiZ_c_EpvA/edit#
+
+Recording: https://zoom.us/rec/share/gEbsIUCpCKAcKjlFDJLk3mnWHhcIuvo9aJbWA-6Bmxhl-lXVjK5FDeWn9pSR0Ewv.X8YVDlMrQg9TXOi6 
+Passcode: K27.bhpq
+
 ## Week 9
 
 (Introduction to Computer Architecture, Part 3, Basic C Programming)
