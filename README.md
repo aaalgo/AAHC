@@ -12,6 +12,11 @@ Doc: https://docs.google.com/document/d/1PenzTcrnbE_IP2nSM_ggk73WvV9HF1dUhIiZ_c_
 Recording: https://zoom.us/rec/share/gEbsIUCpCKAcKjlFDJLk3mnWHhcIuvo9aJbWA-6Bmxhl-lXVjK5FDeWn9pSR0Ewv.X8YVDlMrQg9TXOi6 
 Passcode: K27.bhpq
 
+Send me your username and public key so you can get an account.
+Your username is the 1st letter of your first name followed by your
+last name. For example, my useranme is "wdong".
+
+
 ## Week 9
 
 (Introduction to Computer Architecture, Part 3, Basic C Programming)
