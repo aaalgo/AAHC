@@ -7,10 +7,17 @@ Ann Arbor (Junior) Hacking Club
 
 (Internet Basics, TCP/IP, Port)
 
+Limited crawling using wget (an easier way than saving the page using
+browser) is usually acceptable, but IT IS ILLEGAL TO SCAN THE
+PORT OF A REMOTE DEVICE WITHOUT PERMISSION.  You can nmap your own
+devices, like the your gateway and devices running on your own local
+network.
+
 Doc: https://docs.google.com/document/d/1V9oBaKvBP-EdOGcM84ULK0IJGUci9wkPBKRAveqdk5E/edit?usp=sharing
 
 Recording: https://zoom.us/rec/share/0v9a2Df_CiUxjuN6KuXfw3m8eWQvUBJ0yLSThPuQRZBn-kKSO5RYZ8y_lkOmiFGE.HVPnAIROjSEIYvhd 
 Passcode: kb4+.B==
+
 
 ## Week 10
 
