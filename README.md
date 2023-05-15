@@ -3,6 +3,15 @@ Ann Arbor (Junior) Hacking Club
 
 # Past Sessions
 
+## Week 11
+
+(Internet Basics, TCP/IP, Port)
+
+Doc: https://docs.google.com/document/d/1V9oBaKvBP-EdOGcM84ULK0IJGUci9wkPBKRAveqdk5E/edit?usp=sharing
+
+Recording: https://zoom.us/rec/share/0v9a2Df_CiUxjuN6KuXfw3m8eWQvUBJ0yLSThPuQRZBn-kKSO5RYZ8y_lkOmiFGE.HVPnAIROjSEIYvhd 
+Passcode: kb4+.B==
+
 ## Week 10
 
 (Arduino and Embedded Systems)
