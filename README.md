@@ -3,6 +3,14 @@ Ann Arbor (Junior) Hacking Club
 
 # Past Sessions
 
+## Week 12
+(Web Server Basics)
+
+https://docs.google.com/document/d/1znj7kUeCCCR6c2kqXqbgOD_wb7sWoWQDyAq7GPWnVjU/edit?usp=sharing
+
+https://zoom.us/rec/share/Vz2t7FJ24o-t4x4sCE0IQsaEWOfzeRhiomXGisxMNR2vY4qbjjUnt5S_oBG4WbxO.Yr_2NOA0-QVMnv2Q 
+Passcode: ZvT2R#mz
+
 ## Week 11
 
 (Internet Basics, TCP/IP, Port)
