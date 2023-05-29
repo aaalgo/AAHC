@@ -1,7 +1,15 @@
-Ann Arbor (Junior) Hacking Club
+Ann Arbor Hacking Club
 ===============================
 
 # Past Sessions
+
+## Week 13
+(Database and SQL)
+
+https://docs.google.com/document/d/1H7DyTu-Emp8pos5JendhSggZgWrV1G-Kks20JjnlMfc/edit?usp=sharing
+
+https://zoom.us/rec/share/EQEYvqGW9gzwKlEJ60hV1Bzv8cUwHLxsYojc-rRNI4UE6JJQR7QqbSeER5i-xwBb.VOFiUzzP4RIkvzUR
+Passcode: YAD6.Ncf
 
 ## Week 12
 (Web Server Basics)
